@@ -1,5 +1,4 @@
 import './css/styles.css';
-
 import { debounce } from 'lodash';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import { fetchCountries } from './fetchCountries.js';
